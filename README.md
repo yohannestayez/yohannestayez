@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yohannes Taye</h1> <h3 align="center">A Passionate Computer Science Student & AI Enthusiast</h3> <img align="right" alt="Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" /> <p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=435&lines=Computer+Science+Student+%7C+AI+Enthusiast;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Data+Science+%7C+Software+Engineering+%7C+API+Development" alt="Typing SVG" /> </p>
+<h1 align="center">Hi 👋, I'm Yohannes Taye</h1> <h3 align="center">A Passionate Computer Science Student & AI Enthusiast</h3> 
+<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=435&lines=Computer+Science+Student+%7C+AI+Enthusiast; Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Data+Science+%7C+Software+Engineering+%7C+API+Development" alt="Typing SVG" /> </p>
 🌱 Fourth-year Computer Science student at Unity University
 
 🌱 Participant in the exciting Kifiya training program by 10 Academy
