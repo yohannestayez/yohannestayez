@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yohannes Taye</h1><br/>
 <h3 align="center">A Passionate Computer Science Student</h3><br/>
-<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="100" >
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="140" >
 
   
 
