@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yohannes Taye</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    <p>🌱 I am currently a fourth-year Computer Science student at Unity University.</p>
-    <p>🌱 Participant in the exciting and intensive Kifiya Training Program by 10 Academy.</p>
-    <p>🌱 Enthusiast in Artificial Intelligence, Machine Learning, and Data Science.</p>
-    <p>💻 Some of my projects are available on GitHub</p>
-    <p>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Science</p>
-    <p>📫 Feel free to reach out via email at <a href="mailto:ytaye715@gmail.com">ytaye715@gmail.com</a></p>
-    <p>📄 Know more about my experiences via <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">LinkedIn</a></p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
-  </div>
+<div align="left">
+  <p>🌱 I am currently a fourth-year Computer Science student at Unity University.</p>
+  <p>🌱 Participant in the exciting and intensive Kifiya Training Program by 10 Academy.</p>
+  <p>🌱 Enthusiast in Artificial Intelligence, Machine Learning, and Data Science.</p>
+  <p>💻 Some of my projects are available on GitHub</p>
+  <p>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Science</p>
+  <p>📫 Feel free to reach out via email at <a href="mailto:ytaye715@gmail.com">ytaye715@gmail.com</a></p>
+  <p>📄 Know more about my experiences via <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">LinkedIn</a></p>
+</div>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
