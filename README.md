@@ -14,7 +14,7 @@
   
 - 💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Science
   
-- 📫 Feel free to reach out via email at <a href="mailto:ytaye715@gmail.com">Gmail</a>
+- 📫 Feel free to reach out via email at <a href="ytaye715@gmail.com">Gmail</a>
 
 - 📄 Know more about my experiences via <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">LinkedIn</a>
 
