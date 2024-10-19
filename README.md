@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yohannes Taye</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
-  <div>
+  <div  align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" style="border-radius: 10px; animation: float 3s ease-in-out infinite;"/>
   </div>
 </div>
