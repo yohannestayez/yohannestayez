@@ -12,24 +12,9 @@
     <p>📄 Know more about my experiences via <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">LinkedIn</a></p>
   </div>
   <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" style="border-radius: 10px; animation: float 3s ease-in-out infinite;"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
   </div>
 </div>
-
-<!-- Animation for floating effect -->
-<style>
-  @keyframes float {
-    0% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
-</style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
