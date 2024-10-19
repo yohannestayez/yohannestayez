@@ -1,52 +1,18 @@
-<h1 align="center">Hi 👋, I'm Yohannes Taye</h1>
-<h3 align="center"> Computer science student </h3>
+<h1 align="center">Hi 👋, I'm Yohannes Taye</h1> <h3 align="center">A Passionate Computer Science Student & AI Enthusiast</h3> <img align="right" alt="Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" /> <p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=435&lines=Computer+Science+Student+%7C+AI+Enthusiast;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Data+Science+%7C+Software+Engineering+%7C+API+Development" alt="Typing SVG" /> </p>
+🌱 Fourth-year Computer Science student at Unity University
 
-<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" >
+🌱 Participant in the exciting Kifiya training program by 10 Academy
 
-- 🌱 I am a fourth year Computer science student at Unity University.
-- 🌱 Participant in the exciting and intensive kifiya training program by 10 Academy.
-- 🌱 Artificial intelligence enthusiast.
+🌱 Enthusiastic about Artificial Intelligence, Machine Learning, and Data Science
 
+👨‍💻 Check out some of my projects on GitHub
 
-- 👨‍💻 Some of my projects are available on <a href="https://github.com/yohannestayez" target="_blank"> GitHub </a> 
-- 💬 Ask me about *Machine Learning, Deep Learning, Computer vision, Data science*
+💬 Feel free to ask me about Machine Learning, Deep Learning, Computer Vision, and Data Science
 
-- 📫 Feel free to reach out via email at **ytaye715@gmail.com**
+📫 Reach me via email at ytaye715@gmail.com
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">LinkedIN</a>
+📄 Know more about my professional experiences on LinkedIn
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yohannes" height="30" width="40" />
-</a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>  
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>  
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
-<a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>  
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>  
-<a href="https://www.scipy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a>  
-<a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/> </a>  
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>  
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>  
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannestayez&show_icons=true&locale=en&layout=compact" alt="Yohannes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannestayez&show_icons=true&locale=en" alt="Yohannes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannestayez&" alt="Yohannes" /></p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yohannes LinkedIn" /> </a> </p>
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> </a> <a href="https://python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a> <a href="https://www.scipy.org/" target="_blank"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" /> </a> <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=red" alt="SQLAlchemy" /> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </a> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannestayez&show_icons=true&locale=en&layout=compact" alt="Yohannes's Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yohannestayez&show_icons=true&locale=en" alt="Yohannes's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannestayez&" alt="Yohannes's GitHub Streak" /> </p> <p align="center"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Rocket" /> <img src="https://media.giphy.com/media/26BRqFb8v8V3cGjd6/giphy.gif" width="50" alt="Computer" /> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="AI" /> </p>
