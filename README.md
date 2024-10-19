@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yohannes Taye</h1> <h3 align="center">Computer Science Student</h3> <p align="center"> 🌱 Fourth-year Computer Science student at Unity University<br> 🌱 Participant in the Kifiya Training Program by 10 Academy<br> 🌱 Artificial Intelligence, Machine Learning, and Data Science Enthusiast </p>
 
+<h1 align="center">Hi 👋, I'm Yohannes Taye</h1> <h3 align="center">A Passionate Computer Science Student</h3> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/> </p>
 
-👨‍💻 Some of my projects are available on GitHub
+🌱 I am currently a fourth-year Computer Science student at Unity University.
+
+🌱 Participant in the exciting and intensive Kifiya Training Program by 10 Academy.
+
+🌱 Enthusiast in Artificial Intelligence, Machine Learning, and Data Science.
+
+💻 Some of my projects are available on GitHub
+
 💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Science
-📫 Reach me at ytaye715@gmail.com
-📄 Know more about my experiences on LinkedIn
 
+📫 Feel free to reach out via email at ytaye715@gmail.com
+
+📄 Know more about my experiences via LinkedIn
 
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/> </a> </p>
