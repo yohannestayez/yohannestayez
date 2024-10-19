@@ -5,11 +5,17 @@
   
 
 - 🌱 I am currently a fourth-year Computer Science student at Unity University.
+  
 - 🌱 Participant in the exciting and intensive Kifiya Training Program by 10 Academy.
+  
 - 🌱 Enthusiast in Artificial Intelligence, Machine Learning, and Data Science.
+  
 - 💻 Some of my projects are available on GitHub
+  
 - 💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Science
+  
 - 📫 Feel free to reach out via email at <a href="mailto:ytaye715@gmail.com">Gmail</a>
+
 - 📄 Know more about my experiences via <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">LinkedIn</a>
 
 
