@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohannes Taye</h1><br/>
-<h3 align="center">A Passionate Computer Science Student</h3>
+<h3 align="center">A Passionate Computer Science Student</h3><br/>
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="100" >
 
   
@@ -18,16 +18,16 @@
 
 - 📄 Know more about my experiences via <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">LinkedIn</a>
 
-<br/><br/>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-<br/>
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages and Tools:</h3><br/>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
