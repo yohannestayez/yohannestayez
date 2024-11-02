@@ -25,6 +25,10 @@
   <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <a href="https://t.me/Jo_Paperboii" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram-alt.svg"   
+ alt="Telegram" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">Skills:</h3><br/>
