@@ -6,7 +6,7 @@
 
 - 🌱 I am currently a fourth-year Computer Science student at Unity University.
   
-- 🌱 Participant in the exciting and intensive Kifiya Training Program by 10 Academy.
+- 🌱 Participated in the exciting and intensive Kifiya AI Training Program by 10 Academy.
   
 - 🌱 Enthusiast in Artificial Intelligence, Machine Learning, and Data Science.
   
