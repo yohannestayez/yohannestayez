@@ -23,7 +23,7 @@
 ## 📚 Tech Stack I Work With  
 - 💻 **Languages**: Python, Java, JavaScript, PHP  
 - 🌐 **Frontend**: HTML, CSS, Bootstrap, React.js  
-- ⚙️ **Backend & Frameworks**: Flask, FastAPI, Node.js  
+- ⚙️ **Backend & Frameworks**: Flask, FastAPI 
 - 📊 **Data Science**: NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, PyTorch, SQLAlchemy  
 - 🛠️ **DevOps**: Docker, Git, PostgreSQL  
 
