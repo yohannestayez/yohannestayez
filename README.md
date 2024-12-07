@@ -50,9 +50,6 @@ I’m always happy to chat about:
 
 ---
 
-## 💻 Fun Fact About Me  
-**I turned setbacks into stepping stones 💪, restarting my computer science journey from the ground up 📚. Today, I’m building AI-powered solutions 🚀 to drive impact, spark innovation ⚡, and create meaningful change 🌍!**
-
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yohannes-taye-564852259/" target="_blank">
@@ -125,6 +122,11 @@ I’m always happy to chat about:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+## 💻 Fun Fact About Me  
+**I turned setbacks into stepping stones 💪, restarting my computer science journey from the ground up 📚. Today, I’m building AI-powered solutions 🚀 to drive impact, spark innovation ⚡, and create meaningful change 🌍!**
 
 ---
 
