@@ -1,21 +1,57 @@
 <h1 align="center">🌟 Hi there! I’m Yohannes Taye 👋</h1><br/>
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="140" >
 
-- 🌱 **Fourth-Year Computer Science Student** at **Unity University** 🎓, passionate about creating impactful solutions and making a difference with technology 💻.
-  
-- 🚀 Completed the **Kifiya AI Training Program** by **10 Academy**, diving deep into **AI**, **Machine Learning**, and **Data Science**.  
-
-- 🤖 Enthusiast in **Artificial Intelligence**, **Deep Learning**, and **Data Science**, with hands-on experience in building innovative projects.  
-
-- 💻 Check out some of my projects on **[GitHub](https://github.com/yohannestayez)**.  
-
-- 💬 Ask me about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Data Science** — I love to share knowledge and collaborate!  
-
-- 📫 Feel free to reach out via email at <a href="mailto:ytaye715@gmail.com">ytaye715@gmail.com</a> 📩  
-
-- 📄 Know more about my experiences via **[LinkedIn](https://www.linkedin.com/in/yohannes-taye-564852259/)** 🌟  
+🎓 **Fourth-Year Computer Science Student** at Unity University, passionate about technology and driven to create innovative solutions to real-world problems.  
 
 ---
+
+## 🚀 Highlights of My Journey  
+- 🌱 Completed the exciting and intensive **Kifiya AI Training Program** by 10 Academy, gaining hands-on experience in **Artificial Intelligence**, **Data Science**, and **Machine Learning**.  
+- 🤖 Continuously exploring the vast world of **AI**, **Deep Learning**, and **Computer Vision**, with a focus on building impactful, data-driven solutions.  
+- 🖥️ Developed projects that combine technical expertise and creativity, available for review on **[GitHub](#)**.  
+
+---
+
+## 💡 What I’m Passionate About  
+- **Artificial Intelligence & Machine Learning** 🤖  
+- **Data Science & Big Data Analytics** 📊  
+- **Computer Vision & Natural Language Processing** 🔍  
+- Building robust, scalable systems and contributing to open-source communities 🌐  
+
+---
+
+## 📚 Tech Stack I Work With  
+- 💻 **Languages**: Python, Java, JavaScript, PHP  
+- 🌐 **Frontend**: HTML, CSS, Bootstrap, React.js  
+- ⚙️ **Backend & Frameworks**: Flask, FastAPI, Node.js  
+- 📊 **Data Science**: NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, PyTorch, SQLAlchemy  
+- 🛠️ **DevOps**: Docker, Git, PostgreSQL  
+
+---
+
+## 🎯 What I Can Do for You  
+- Build and optimize **machine learning models** for predictive analysis.  
+- Develop **web applications** with a focus on functionality and user experience.  
+- Analyze and visualize large datasets 📈 to derive actionable insights.  
+- Collaborate on innovative projects to solve challenging problems 🚀.  
+
+---
+
+## 💬 Let’s Connect  
+I’m always happy to chat about:  
+- 🤖 **AI & ML technologies**  
+- 🌟 **Emerging trends in Data Science**  
+- 🔍 **Computer Vision projects**  
+- 💻 Anything related to **technology and coding!**  
+
+📫 **Reach out to me via email**: [ytaye715@gmail.com](mailto:ytaye715@gmail.com) 📩  
+
+🌐 **Stay connected on LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yohannes-taye-564852259/) 🌟  
+
+---
+
+## 💻 Fun Fact About Me  
+I believe that **technology has the power to transform lives**, and I’m on a mission to leverage it to create a positive impact 🌍.  
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
