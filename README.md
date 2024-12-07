@@ -51,7 +51,7 @@ I’m always happy to chat about:
 ---
 
 ## 💻 Fun Fact About Me  
-I turned adversity into strength 💪, restarting my computer science journey from the ground up 📚. Today, I’m building AI-powered solutions 🚀 to drive impact, spark innovation ⚡, and create meaningful change 🌍!
+**I turned setbacks into stepping stones 💪, restarting my computer science journey from the ground up 📚. Today, I’m building AI-powered solutions 🚀 to drive impact, spark innovation ⚡, and create meaningful change 🌍!**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
