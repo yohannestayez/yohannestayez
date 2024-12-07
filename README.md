@@ -3,6 +3,11 @@
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="140" >
 
   
+<h3 align="left">Profile Views:</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yohannestayez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 - 🌱 I am currently a fourth-year Computer Science student at Unity University.
   
