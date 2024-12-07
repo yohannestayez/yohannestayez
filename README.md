@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 Highlights of My Journey  
-- 🌱 Completed the exciting and intensive **Kifiya AI Training Program** by 10 Academy, gaining hands-on experience in **Artificial Intelligence**, **Data Science**, and **Machine Learning**.  
-- 🤖 Continuously exploring the vast world of **AI**, **Deep Learning**, and **Computer Vision**, with a focus on building impactful, data-driven solutions.  
+- 🌱 Completed the exciting and intensive **Kifiya AI Mastery Training Program** by 10 Academy, gaining hands-on experience in **Artificial Intelligence**, **Data Science**, and **Machine Learning**.  
+- 🤖 Continuously exploring the vast world of **Generative AI**, **Machine Learning**, and **Deep Learning**, with a focus on building impactful, data-driven solutions.  
 - 🖥️ Developed projects that combine technical expertise and creativity, available for review on **[GitHub](https://github.com/yohannestayez)**.  
 
 ---
