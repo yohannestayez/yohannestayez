@@ -137,6 +137,5 @@ I’m always happy to chat about:
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yohannestayez&show_icons=true&theme=radical" alt="Yohannes's GitHub stats" height="150"/><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannestayez&theme=radical" alt="GitHub streak stats" height="150"/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannestayez&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
