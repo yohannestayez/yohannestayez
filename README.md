@@ -130,9 +130,6 @@ I’m always happy to chat about:
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yohannestayez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
