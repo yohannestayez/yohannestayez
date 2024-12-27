@@ -3,14 +3,14 @@
 
 🎓 **Fourth-Year Computer Science Student** at Unity University, passionate about technology and driven to create innovative solutions to real-world problems.  
 
----
+
 
 ## 🚀 Highlights of My Journey  
 - 🌱 Completed the exciting and intensive **Kifiya AI Mastery Training Program** by 10 Academy, gaining hands-on experience in **Artificial Intelligence**, **Data Science**, and **Machine Learning**. Currently working as an intern at **iCog Labs**. 
 - 🤖 Continuously exploring the vast world of **Generative AI**, **Machine Learning**, and **Deep Learning**, with a focus on building impactful, data-driven solutions.  
 - 🖥️ Developed projects that combine technical expertise and creativity, available for review on **[GitHub](https://github.com/yohannestayez)**.  
 
----
+
 
 ## 💡 What I’m Passionate About  
 - **Artificial Intelligence & Machine Learning** 🤖  
@@ -18,7 +18,7 @@
 - **Computer Vision & Natural Language Processing** 🔍  
 - Building robust, scalable systems and contributing to open-source communities 🌐  
 
----
+
 
 ## 📚 Tech Stack I Work With  
 - 💻 **Languages**: Python, Java, JavaScript, PHP  
@@ -109,7 +109,7 @@ I’m always happy to chat about:
   </a>
 </p>
 
----
+
 
 ## 💻 Fun Fact About Me  
 **I turned setbacks into stepping stones 💪, restarting my computer science journey from the ground up 📚. Today, I’m building AI-powered solutions 🚀 to drive impact, spark innovation ⚡, and create meaningful change 🌍!**
