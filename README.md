@@ -30,7 +30,7 @@
 ---
 
 ## 🎯 What I Can Do for You  
-- Build and optimize **machine learning models** for predictive analysis.  
+- Build and optimize **machine learning models** for predictive analysis and more.  
 - Analyze and visualize large datasets 📈 to derive actionable insights.  
 - Collaborate on innovative projects to solve challenging problems 🚀.  
 
